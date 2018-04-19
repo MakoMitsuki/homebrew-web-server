@@ -11,3 +11,5 @@ Jumping to directories work but does not open files in right directory nor does 
 Threading is not included (I think, unless it miraculously works)...
 
 Compile with ./homework6 [PORTNO] WWW
+
+DO NOT COPY FOR HOMEWORK PURPOSES! Absolutely not responsible for bad grades and you not learning either. :(
